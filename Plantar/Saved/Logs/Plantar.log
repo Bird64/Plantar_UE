@@ -1293,3 +1293,100 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.07.03-02.35.41:297][614]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
 [2026.07.03-02.35.41:301][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
 [2026.07.03-02.35.41:368][618]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2026.07.03-02.36.42:748][898]LogDerivedDataCache: C:/Users/mrgor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: ================================================
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Total job queries 2,463, among them cache hits 632 (25.66%), DDC hits 1,723 (69.96%), Duplicates 106 (4.30%)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Tracking 1,725 distinct input hashes that result in 1,073 distinct outputs (62.20%)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: RAM used: 10.83 MiB of 1.60 GiB budget. Usage: 0.66%
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Shaders Compiled: 2
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Job execution time: average 0.31 s, max 0.31 s
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Job life time (pending + execution): average 0.35 s, max 0.35
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Shader code size: total 26.234 KiB, numShaders 2, average 13.117 KiB, min 9.499 KiB, max 16.735 KiB
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.35 s
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.28%
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Average processing rate: 5.64 jobs/sec
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Total thread time: 0.245 s
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Total thread preprocess time: 38.517 s
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Percentage time preprocessing: 15701.68%
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Effective parallelization: 0.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.043263
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    2 times, average 0.12 sec, max 0.13 sec, min 0.11 sec)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display:                     TVirtualTextureVSBaseColorNormalSpecular (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display:                    TVirtualTextureVSBaseColorNormalRoughness (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display:                                TVirtualTextureVSDisplacement (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display:                                 TVirtualTextureVSWorldHeight (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled    2 times, average 0.12 sec, max 0.13 sec, min 0.11 sec)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display:                    TVirtualTextureVSBaseColorNormalRoughness - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display:                                TVirtualTextureVSDisplacement - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display:                                 TVirtualTextureVSWorldHeight - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display:                     TVirtualTextureVSBaseColorNormalSpecular - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: === Material stats ===
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Materials Translated:    145
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Material Translation Only: 0.04 s (30%)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.07.03-02.37.52:396][106]LogShaderCompilers: Display: ================================================
+[2026.07.03-02.38.25:419][268]LogSlate: Took 0.001204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.07.03-02.38.27:020][351]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.07.03-02.38.27:047][351]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.07.03-02.38.27:066][352]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.07.03-02.38.27:275][365]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2026.07.03-02.38.27:276][365]LogContentBrowser: End creating deferred item NewMaterial
+[2026.07.03-02.38.27:278][365]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.07.03-02.38.27:801][385]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial.NewMaterial
+[2026.07.03-02.38.27:807][385]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.07.03-02.38.27:814][385]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.03-02.38.28:273][385]MaterialEditorStats: Texture samplers: 0/16
+[2026.07.03-02.38.28:273][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.07.03-02.38.28:273][385]MaterialEditorStats: Shader Count: 0
+[2026.07.03-02.38.28:273][385]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.07.03-02.38.28:280][385]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.07.03-02.38.28:359][387]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.07.03-02.38.28:359][387]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.07.03-02.38.28:359][387]MaterialEditorStats: Texture samplers: 1/16
+[2026.07.03-02.38.28:359][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.07.03-02.38.28:359][387]MaterialEditorStats: Shader Count: 4
+[2026.07.03-02.38.28:359][387]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.07.03-02.38.30:825][518]LogSlate: Window 'NewMaterial' being destroyed
+[2026.07.03-02.38.30:832][518]LogSlate: Window 'NewMaterial' being destroyed
+[2026.07.03-02.38.30:844][518]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.07.03-02.38.30:844][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.03-02.38.30:885][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.07.03-02.38.32:480][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.07.03-02.38.33:392][609]LogSlate: Window 'Save Content' being destroyed
+[2026.07.03-02.38.33:419][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.03-02.38.33:464][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewMaterial] ([1] browsable assets)...
+[2026.07.03-02.38.33:512][609]OBJ SavePackage:     Rendered thumbnail for [Material /Game/NewMaterial.NewMaterial]
+[2026.07.03-02.38.33:512][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewMaterial]
+[2026.07.03-02.38.33:512][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial" FILE="../../../../../../Downloads/NoSyncHelp/Plantar_UE/Plantar/Content/NewMaterial.uasset" SILENT=true
+[2026.07.03-02.38.33:521][609]LogSavePackage: Moving output files for package: /Game/NewMaterial
+[2026.07.03-02.38.33:521][609]LogSavePackage: Moving '../../../../../../Downloads/NoSyncHelp/Plantar_UE/Plantar/Saved/NewMaterial437A3262437B028E797F8EA2067277D3.tmp' to '../../../../../../Downloads/NoSyncHelp/Plantar_UE/Plantar/Content/NewMaterial.uasset'
+[2026.07.03-02.38.33:530][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.572 ms
+[2026.07.03-02.38.33:581][609]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.03-02.38.33:581][609]LogContentValidation: Enabled validators:
+[2026.07.03-02.38.33:581][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.03-02.38.33:581][609]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.03-02.38.33:581][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.03-02.38.33:581][609]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.03-02.38.33:581][609]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.03-02.38.33:581][609]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.03-02.38.33:581][609]AssetCheck: /Game/NewMaterial Validating asset
+[2026.07.03-02.38.33:597][609]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Downloads/NoSyncHelp/Plantar_UE/Plantar/Saved/SourceControl/UncontrolledChangelists.json
