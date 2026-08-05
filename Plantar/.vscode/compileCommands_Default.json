@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\digim\\OneDrive\\Desktop\\UnrealProjects\\Plantar_UE\\Plantar\\Source\\Plantar\\LevelProgressManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\digim\\OneDrive\\Desktop\\UnrealProjects\\Plantar_UE\\Plantar\\.vscode\\compileCommands_Default\\Plantar.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\digim\\OneDrive\\Desktop\\UnrealProjects\\Plantar_UE\\Plantar\\Source\\Plantar\\LevelProgressManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\digim\\OneDrive\\Desktop\\UnrealProjects\\Plantar_UE\\Plantar\\.vscode\\compileCommands_Default\\Plantar.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\digim\\OneDrive\\Desktop\\UnrealProjects\\Plantar_UE\\Plantar\\Source\\Plantar\\Plantar.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\digim\\OneDrive\\Desktop\\UnrealProjects\\Plantar_UE\\Plantar\\.vscode\\compileCommands_Default\\Plantar.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\digim\\OneDrive\\Desktop\\UnrealProjects\\Plantar_UE\\Plantar\\Source\\Plantar\\Plantar.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\digim\\OneDrive\\Desktop\\UnrealProjects\\Plantar_UE\\Plantar\\.vscode\\compileCommands_Default\\Plantar.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\digim\\OneDrive\\Desktop\\UnrealProjects\\Plantar_UE\\Plantar\\Source\\Plantar\\Plantar.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\digim\\OneDrive\\Desktop\\UnrealProjects\\Plantar_UE\\Plantar\\.vscode\\compileCommands_Default\\Plantar.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]
